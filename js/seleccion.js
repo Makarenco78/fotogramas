@@ -1,10 +1,10 @@
 const seleccion = document.getElementById("seleccion");
 
 function agregar(grupos){
-    for (let index = 0; index < grupos.length; index++) {
+    for (let i = 0; i < grupos.length; i++) {
         const op = document.createElement('option');
-        op.value = index;
-        op.text= grupos[index][0].grupo;
+        op.value = i;
+        op.text= grupos[i][0].grupo;
         seleccion.add(op);
     }
 

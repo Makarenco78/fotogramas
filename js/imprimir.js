@@ -97,7 +97,7 @@ function ajustar(cantidad){
     }
 }
 
-function generar(grupo){
+function generarPagina(grupo){
     // Agregar titulo con grupo y liceo
     agregarInfo(grupo[0]);
     // Obtiene la cantidad de alumnos por hoja
@@ -106,6 +106,6 @@ function generar(grupo){
     grupo[1].forEach(agregarTarjeta);
 }
 
-generar(grupo);
+generarPagina(grupo);
 window.print();
 
