@@ -12,13 +12,13 @@ const grupos =
         { numeroLista: "03", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
         { numeroLista: "04", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
         { numeroLista: "05", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
-        { numeroLista: "06", nombre: 'María', apellido: 'Gómez', imagen: 'f.png' },
+        { numeroLista: "06", nombre: 'María', apellido: 'Gómez', imagen: '../f.png' },
         { numeroLista: "07", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
         { numeroLista: "08", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
         { numeroLista: "09", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
         { numeroLista: "10", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
         { numeroLista: "11", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
-        { numeroLista: "12", nombre: 'Martin', apellido: 'Terra', imagen: 'm.png' },
+        { numeroLista: "12", nombre: 'Martin', apellido: 'Terra', imagen: '../m.png' },
         { numeroLista: "13", nombre: 'Marta de las Carreras', apellido: 'Gómez', imagen: 'maria.png' },
         { numeroLista: "14", nombre: 'Marta Noel', apellido: 'Gomensoro', imagen: 'maria.png' },
         { numeroLista: "15", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
@@ -132,10 +132,10 @@ const grupos =
         { numeroLista: "04", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
         { numeroLista: "13", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
         { numeroLista: "13", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
+        { numeroLista: "13", nombre: 'María', apellido: 'Gómez', imagen: '../f.png' },
         { numeroLista: "13", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
         { numeroLista: "13", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
-        { numeroLista: "13", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
-        { numeroLista: "13", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' },
+        { numeroLista: "13", nombre: 'Jose', apellido: 'Manrique', imagen: '../m.png' },
         { numeroLista: "16", nombre: 'María', apellido: 'Gómez', imagen: 'maria.png' }
     ]]
 ]
